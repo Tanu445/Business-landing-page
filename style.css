@@ -1,0 +1,30 @@
+body {
+  margin:0px;
+  font-family:Arial,sans-serif;
+  text-align:center;
+}
+header {
+  background:linear-gradient(to right, #667eea, #764ba2);
+  color:white;
+  padding:100px 20px;
+}
+.btn {
+  display:inline-block;
+  margin-top:20px;
+  padding:10px 20px;
+  background:white;
+  color:#333;
+  text-decoration:none;
+  border-radius:5px;
+}
+.services {
+  padding:50px 20px;
+}
+.box {
+  margin:20px;
+}
+footer {
+  background:#222;
+  color:white;
+  padding:20px;
+}
